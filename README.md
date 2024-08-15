@@ -1,3 +1,4 @@
 # EfficentHuman
 ## Our code is coming soon
-[fig2_cutedge.pdf](https://github.com/user-attachments/files/16622385/fig2_cutedge.pdf)
+![image](https://github.com/user-attachments/assets/b2a0ccfc-a56d-4413-bcbb-5860336519a2)
+
